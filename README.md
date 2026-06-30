@@ -17,10 +17,10 @@ This repository tracks my LeetCode problem-solving progress. As a robotics engin
 
 | Difficulty | Solved | Notes |
 |------------|--------|-------|
-| Easy       | 80+    | Arrays, Trees, Linked Lists, Math |
-| Medium     | 25+    | DP, Graphs, Sliding Window |
+| Easy      | 86+    | Arrays, Trees, Linked Lists, Math, Strings |
+| Medium    | 30+    | DP, Graphs, Sliding Window, Two Pointers |
 | Hard       | 5+     | Advanced DP, Graphs |
-| **Total**  | **110+** | Actively growing |
+| **Total** | **121+** | Actively growing |
 
 ---
 
@@ -54,6 +54,17 @@ Problems are filed by number. Each file is named `{problem_number}.py` or `{prob
 | 2392 | Build a Matrix With Conditions | Hard | Python / C++ | Graphs / Topological Sort |
 | 724 | Find Pivot Index | Easy | Python / C++ | Prefix Sum |
 | 624 | Maximum Distance in Arrays | Medium | C++ | Greedy |
+| 1047 | Remove All Adjacent Duplicates In String | Easy | Python | Stack |
+| 1071 | Greatest Common Divisor of Strings | Easy | Python | Math / Strings |
+| 1108 | Defanging an IP Address | Easy | Python | Strings |
+| 1137 | N-th Tribonacci Number | Easy | Python | DP |
+| 1207 | Unique Number of Occurrences | Easy | Python | Hash Map |
+| 1295 | Find Numbers with Even Number of Digits | Easy | Python | Arrays |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python | Sliding Window |
+| 11 | Container With Most Water | Medium | Python | Two Pointers |
+| 15 | 3Sum | Medium | Python | Two Pointers |
+| 49 | Group Anagrams | Medium | Python | Hash Map |
+| 56 | Merge Intervals | Medium | Python | Greedy / Sorting |
 
 > For the full list of solved problems, visit: [leetcode.com/u/PaarthSuwi](https://leetcode.com/u/PaarthSuwi/)
 >
